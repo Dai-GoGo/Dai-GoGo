@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Skills & Technologies 技能与技术
+
+- 🧩 **Languages:** `Python` `Go` `TypeScript` `JavaScript` `C` `C++` `Rust`
+- 🛠️ **Tech Stack:** `React` `Next.js` `Node.js` `Django` `FastAPI` `Docker` `Kubernetes`
+- 🎯 **Fields:** `Backend` `Frontend` `DevOps` `Cloud Native`
 -->
+[![GitRoll](https://gitroll.io/api/cards/stats/your_username)](https://gitroll.io/profile/your_username)
