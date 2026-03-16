@@ -17,6 +17,6 @@
   <img src="URL_TO_YOUR_WAKATIME_CHART" width="500" alt="WakaTime Donut Chart">
 </p>
 
-![Code Time](URL_TO_YOUR_WAKATIME_BADGE)
+![Code Time]([URL_TO_YOUR_WAKATIME_BADGE](https://wakatime.com/@a4679960-72d4-4948-967d-89d000c6413e/projects/nwaenjdppv?start=2026-03-10&end=2026-03-16))
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dai-GoGo&color=blue)
